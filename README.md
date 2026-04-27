@@ -81,19 +81,6 @@
 * 💼 LinkedIn (add link)
 * 🌍 Portfolio (add link)
 
----
-
-## ⚡ Fun Code
-
-```js
-const shaunak = {
-  code: ["JavaScript", "Python"],
-  stack: ["React", "Next.js", "Django"],
-  learning: ["AWS", "DevOps"],
-};
-```
-
----
 
 ⭐️ Star my repos if you like them!
 
