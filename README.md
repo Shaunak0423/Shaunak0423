@@ -6,8 +6,6 @@
 
 ---
 
-## 👀 Profile Views
-
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shaunak0423&label=Profile%20views&color=0e75b6&style=flat" />
 </p> -->
@@ -19,7 +17,6 @@
 * 🔭 Working on **Full Stack Projects & Dashboards**
 * 🌱 Learning **AWS, Docker, DevOps**
 * 💬 Ask me about **React, Django, APIs**
-* ⚡ Goal: **Top 1% Engineer**
 
 ---
 
