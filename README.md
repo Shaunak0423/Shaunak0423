@@ -8,9 +8,9 @@
 
 ## 👀 Profile Views
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shaunak0423&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
@@ -61,25 +61,23 @@
 
 ## 🚀 Featured Projects
 
-### 🏨 Room Booking System
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
+</p> -->
 
 ### 📊 Expense Tracker
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500" />
-</p>
+</p> -->
 
 ---
 
 ## 🌐 Connect With Me
 
 * 📧 [shaunakshet04@gmail.com](mailto:shaunakshet04@gmail.com)
-* 💼 LinkedIn (add link)
-* 🌍 Portfolio (add link)
+* 💼 [LinkedIn (add link)](https://www.linkedin.com/in/shaunak-shet-349693273)
+* 🌍 [Portfolio (add link)](https://my-portfolio-nine-omega-33.vercel.app/)
 
 
 ⭐️ Star my repos if you like them!
