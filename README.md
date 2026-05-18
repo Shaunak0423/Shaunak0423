@@ -59,13 +59,9 @@
 
 ---
 
-## 🚀 Featured Projects
-
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p> -->
-
-### 📊 Expense Tracker
 
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500" />
@@ -76,8 +72,8 @@
 ## 🌐 Connect With Me
 
 * 📧 [shaunakshet04@gmail.com](mailto:shaunakshet04@gmail.com)
-* 💼 [LinkedIn (add link)](https://www.linkedin.com/in/shaunak-shet-349693273)
-* 🌍 [Portfolio (add link)](https://my-portfolio-nine-omega-33.vercel.app/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/shaunak-shet-349693273)
+* 🌍 [Portfolio](https://my-portfolio-nine-omega-33.vercel.app/)
 
 
 ⭐️ Star my repos if you like them!
