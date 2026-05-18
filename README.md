@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Django;Building+Scalable+Web+Apps;Learning+Cloud+%26+DevOps" />
 </p>
 
----
-
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shaunak0423&label=Profile%20views&color=0e75b6&style=flat" />
 </p> -->
@@ -63,8 +61,6 @@
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500" />
 </p> -->
-
----
 
 ## 🌐 Connect With Me
 
